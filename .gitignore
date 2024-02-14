@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+pids/
+logs/
+yarn-error.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Build files
+/dist/
+/build/
+
+# dotenv environment variable file
+.env
+.env.local
+
+# VS Code settings
+.vscode/
+
+# Mac OS system files
+.DS_Store
